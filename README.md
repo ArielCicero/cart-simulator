@@ -3,3 +3,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To start it:
 
 ### `npm start`
+
+![View](https://github.com/ArielCicero/cart-simulator/blob/master/view.gif)
